@@ -13,7 +13,6 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
-        android:gravity="right"
         android:inputType="none"
         android:background="@android:color/darker_gray"
         android:textSize="30sp"
